@@ -1,0 +1,13 @@
+{
+  "features_csv": "artifacts/features.csv",
+  "feature_cols": [
+    "asian",
+    "dessert",
+    "europian",
+    "fast food",
+    "georgian"
+  ],
+  "method": "ward",
+  "scale": true,
+  "max_rows": 40000
+}

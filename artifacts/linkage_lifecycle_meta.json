@@ -1,0 +1,15 @@
+{
+  "features_csv": "artifacts/features.csv",
+  "feature_cols": [
+    "Order Count",
+    "Months Since Last Order",
+    "AOV",
+    "% of Targeted Campaigns",
+    "paysWithCash",
+    "Weekend",
+    "Evening"
+  ],
+  "method": "ward",
+  "scale": true,
+  "max_rows": 40000
+}
